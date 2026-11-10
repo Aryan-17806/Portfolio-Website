@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aryan Singh — Developer Portfolio
 
 A responsive, dark-first React portfolio built with Vite, Tailwind CSS, Framer Motion, and Lucide React.
@@ -73,3 +74,6 @@ The form validates required fields and email format, then opens the visitor's co
 ## Before publishing
 
 Please verify every factual detail, especially the internship dates and certification details, and add the actual resume PDF. The experience and achievements are presented exactly as supplied in the project brief. Consider adding a favicon, a custom domain, and a real contact endpoint before launch.
+=======
+# Portfolio-Website
+>>>>>>> 583a2eaf4a0ec007685c43dc0c890a87cdc3a993
